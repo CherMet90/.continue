@@ -1,7 +1,6 @@
 ---
 name: General Development Rules
 description: Общие правила оформления ответов и работы с кодом (всегда активно)
-globs: ["**/*"]
 alwaysApply: true
 priority: 10
 ---
