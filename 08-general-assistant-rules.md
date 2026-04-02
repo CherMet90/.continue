@@ -1,8 +1,7 @@
 ---
 name: General Assistant Role
 description: General Assistant Role — общий помощник без строгой специализации роли
-globs: ["**/*"]
-alwaysApply: false
+alwaysApply: true
 priority: 15
 ---
 
